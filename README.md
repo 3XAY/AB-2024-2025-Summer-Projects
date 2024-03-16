@@ -9,7 +9,7 @@ __This is documentation with version control for my summer projects.__
 
 ## Correctional Movement using the CenterStage Robot
 Using the parallel and perpendicular goBILDA encoders on the robot and the Robot Controller's built-in IMU, I will correct erroneous robot movement.
-![Correctional Movement Example](https://github.com/3XAY/AB-2024-2025-Summer-Projects/assets/69061313/688a4a97-307c-4479-82d2-b5ff89c20528)****
+![Correctional Movement Example](https://github.com/3XAY/AB-2024-2025-Summer-Projects/assets/69061313/87c331c3-9a3b-46c0-9b51-fc0343a80f71)
 
 ## Driver feedback class + Prototyping tools
 This is a simple class that allows for extremely fast driver feedback implementation paired with a Java-based AND Python-based prototyping tool, allowing to you code the driver feedback features without access to the Robot / Robot Controller / Driver Station.
