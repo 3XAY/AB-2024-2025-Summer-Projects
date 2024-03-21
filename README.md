@@ -1,6 +1,6 @@
 # 2024-2025 Summer Projects for Ayan Bindal
 
-This repository serves as documentation for my summer projects. The README.md has a short summary of each goal while the [Wiki]([wikiURLHere](https://github.com/3XAY/AB-2024-2025-Summer-Projects/wiki)) has more information. This is also useful due to the version control features.
+This repository serves as documentation for my summer projects. The README.md has a short summary of each goal while the [Wiki](https://github.com/3XAY/AB-2024-2025-Summer-Projects/wiki) has more information. This is also useful due to the version control features.
 __This is documentation with version control for my summer projects.__
 
 
