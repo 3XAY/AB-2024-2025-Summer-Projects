@@ -6,6 +6,8 @@ __This is documentation with version control for my summer projects.__
 
 ## Dependencies
 - FTC SDK Version 9.0.1
+- AcmeRobotics FTC Dashboard 0.4.15
+- AcmeRobotics RoadRunner Core 0.5.6
 
 ## Correctional Movement using the CenterStage Robot
 Using the parallel and perpendicular goBILDA encoders on the robot and the Robot Controller's built-in IMU, I will correct erroneous robot movement.
